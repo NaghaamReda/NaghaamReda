@@ -2,7 +2,7 @@
 
 ### Computer Science & Artificial Intelligence Student | Software Developer
 
-I'm a 3rd-year CS & AI student at Helwan University and a Software Development Trainee at DEPI, passionate about building modern web and mobile applications. I enjoy crafting clean UI/UX and solving complex problems with structured code.
+I'm a 3rd-year CS & AI student at Helwan University and a mobile developer Trainee at DEPI, passionate about building modern web and mobile applications. I enjoy crafting clean UI/UX and solving complex problems with structured code.
 
 ---
 
