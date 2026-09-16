@@ -14,7 +14,7 @@ I'm a 3rd-year CS & AI student at Helwan University and a mobile developer Train
 
 ###  What I Do
 -  **Mobile Development**: Crafting cross-platform apps using Flutter & Dart.
--  **Web Development**: Building responsive front-end interfaces using React & TypeScript.
+-  **Web Development**: Building responsive front-end interface.
 -  **Core CS**: Strong foundation in Data Structures, OOP, OS concepts, and Software Engineering.
 
 ---
